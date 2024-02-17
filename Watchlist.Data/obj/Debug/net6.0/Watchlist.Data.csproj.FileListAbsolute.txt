@@ -1,0 +1,12 @@
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.deps.json
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.dll
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\bin\Debug\net6.0\Watchlist.Data.pdb
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.csproj.AssemblyReference.cache
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.AssemblyInfoInputs.cache
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.AssemblyInfo.cs
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.dll
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\refint\Watchlist.Data.dll
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\Watchlist.Data.pdb
+D:\SoftUni - Courses\DevOps for Developers - Jan 2024\Containers and Cloud\Exercises\ExamPreparation2\Task-2\Watchlist.Data\obj\Debug\net6.0\ref\Watchlist.Data.dll
